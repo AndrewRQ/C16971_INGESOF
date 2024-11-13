@@ -4,7 +4,7 @@
         <div class="row justify-content-end">
             <div class="col-2">
                 <a href="/pais">
-                    <button type="button" class="btn btn-outline-secondary float-right">
+                    <button type="button" id="agregar" class="btn btn-outline-secondary float-right">
                         Agregar país
                     </button>
                 </a>

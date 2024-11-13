@@ -42,7 +42,7 @@ import axios from "axios";
                            required />
                 </div>
                 <div>
-                    <button type="submit" class="btn btn-success btn-block">
+                    <button type="submit" id="guardar" class="btn btn-success btn-block">
                         Guardar
                     </button>
                 </div>
